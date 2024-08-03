@@ -1,6 +1,6 @@
 # Fetch & Dispatch
 
-![3XV0T3R Scrape & Post Master](https://media.discordapp.net/attachments/1266269802532438027/1269242250421076029/image.png?ex=66af5975&is=66ae07f5&hm=3b43f056b8df4a79f144427b2e47bebd5939d84cd8edae35f6da418b23152fd9&=&format=webp&quality=lossless&width=625&height=473)
+![3XV0T3R Scrape & Post Master](https://media.discordapp.net/attachments/1266269802532438027/1269243245007867978/image.png?ex=66af5a63&is=66ae08e3&hm=df639435646c772a7eca50e88996b9d5d286427fa72d3253acc2194ad6bfb462&=&format=webp&quality=lossless&width=626&height=473)
 
 ## Descrição
 
