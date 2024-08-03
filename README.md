@@ -4,16 +4,13 @@
 
 ## Descrição
 
-O **Fetch & Dispatch** é uma aplicação desenvolvida para automatizar o processo de scraping e postagem de dados. Com este aplicativo, você pode:
-
-- **Realizar Scraping**: Extrair informações de sites de forma eficiente.
-- **Postar Conteúdo**: Enviar as imagens ou dados extraídos para um canal específico através de webhooks.
+O **Fetch & Dispatch** é uma ferramenta que automatiza o scraping e a postagem de imagens em canais via webhooks. Ele facilita a extração de imagens de servidores externos e a publicação direta em canais, simplificando a configuração de webhooks, tokens e IDs.
 
 ## Funcionalidades
 
 - **ID do Webhook**: Identificador único para o webhook usado para enviar as imagens extraídas para o canal.
-- **Token do Webhook**: Token de autenticação para o webhook usado para enviar as imagens extraídas.
-- **ID do Canal**: Identificador do canal para onde as imagens extraídas serão enviadas.
+- **Token do Webhook**: Token de autenticação para o webhook.
+- **ID do Canal**: Identificador do canal para onde as imagens serão enviadas.
 - **Token**: Token de acesso necessário para operar com o canal.
 - **ID do Webhook de Log**: Identificador único para o webhook de log, usado para registrar eventos.
 - **Token do Webhook de Log**: Token de autenticação para o webhook de log.
@@ -21,8 +18,8 @@ O **Fetch & Dispatch** é uma aplicação desenvolvida para automatizar o proces
 ## Como Usar
 
 1. **Configuração**: Preencha os campos obrigatórios com as informações necessárias.
-2. **Iniciar Scraping**: Clique no botão "Iniciar Scraping" para começar a extração de dados.
-3. **Iniciar Postagem**: Após o scraping, clique no botão "Iniciar Postagem" para enviar as informações para o canal desejado.
+2. **Iniciar Scraping**: Clique em "Iniciar Scraping" para começar a extração de imagens.
+3. **Iniciar Postagem**: Após o scraping, clique em "Iniciar Postagem" para enviar as imagens para o canal configurado.
 
 ## Instalação
 
@@ -43,4 +40,3 @@ Sinta-se à vontade para contribuir para este projeto. Faça um fork do reposit�
 ## Contato
 
 Para qualquer dúvida ou sugestão, entre em contato com [3XV0T3R](https://discord.gg/9MBRne88mY).
-
