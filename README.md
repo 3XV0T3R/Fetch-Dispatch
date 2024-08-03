@@ -28,11 +28,11 @@ O **Fetch & Dispatch** é uma aplicação desenvolvida para automatizar o proces
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/seurepositorio.git
+    git clone https://github.com/3XV0T3R/Fetch-Dispatch/
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd seurepositorio
+    cd Fetch-Dispatch
     ```
 3. Abra o arquivo `index.html` em um navegador para visualizar a aplicação.
 
@@ -46,5 +46,5 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato com [3XV0T3R](mailto:seuemail@exemplo.com).
+Para qualquer dúvida ou sugestão, entre em contato com [3XV0T3R](https://discord.gg/9MBRne88mY).
 
