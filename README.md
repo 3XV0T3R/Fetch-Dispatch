@@ -4,7 +4,7 @@
 
 ## Descrição
 
-O **3XV0T3R Scrape & Post Master** é uma aplicação desenvolvida para automatizar o processo de scraping e postagem de dados. Com este aplicativo, você pode:
+O **Fetch & Dispatch** é uma aplicação desenvolvida para automatizar o processo de scraping e postagem de dados. Com este aplicativo, você pode:
 
 - **Realizar Scraping**: Extrair informações de sites de forma eficiente.
 - **Postar Conteúdo**: Enviar as imagens ou dados extraídos para um canal específico através de webhooks.
