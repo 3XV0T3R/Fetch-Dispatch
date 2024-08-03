@@ -40,10 +40,6 @@ O **Fetch & Dispatch** é uma aplicação desenvolvida para automatizar o proces
 
 Sinta-se à vontade para contribuir para este projeto. Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 
 Para qualquer dúvida ou sugestão, entre em contato com [3XV0T3R](https://discord.gg/9MBRne88mY).
